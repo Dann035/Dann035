@@ -1,7 +1,7 @@
 # !Hola, mi nombre es Daniel Landa 👋
 ### Desarrollador FULL-STACK WEB 🌍
 
-![https://github.com/Dann035](https://github.com/Dann035/Dann035/blob/main/img/FondodePerfil.png)
+![https://github.com/Dann035](https://github.com/Dann035/Dann035/blob/main/img/FondodePerfil.jpg)
 
 ![GitHub Followers](https://img.shields.io/github/followers/Dann035?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Dann035?style=social)
