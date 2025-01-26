@@ -1,4 +1,4 @@
-# ![IconPerfil](https://github.com/Dann035/Dann035/blob/main/img/z3r0_icon.png)Hola, mi nombre es Daniel Landa 👋
+# !! Hola, mi nombre es Daniel Landa 👋
 ### Desarrollador FULL-STACK WEB 🌍
 
 ![FondodelPerfil](https://github.com/Dann035/Dann035/blob/main/img/FondodePerfil.png)
