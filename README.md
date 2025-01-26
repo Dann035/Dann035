@@ -49,7 +49,7 @@ Transformar ideas en soluciones digitales funcionales y escalables, mientras sig
 - Deportes
 
 # 📊 Estadísticas  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dann035&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dann035&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dann035&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dann035&layout=compact&theme=radical)  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Dann035&theme=onestar&no-frame=true) 
 
 
