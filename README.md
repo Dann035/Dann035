@@ -27,7 +27,4 @@ Transformar ideas en soluciones digitales funcionales y escalables, mientras sig
 [![LinkedIn](https://img.shields.io/badge/Linkedln-blue)](https://www.linkedin.com/in/daniel-landa-57337b349/)
 
 ## Contacto y apoyo:
-
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
-</br>
-[![Email](https://img.shields.io/badge/landadlh603@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:landadlh603@gmail.com)
+[![Email](https://img.shields.io/badge/landadlh603@gmail.com-email_personal_(respuesta_rápida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:landadlh603@gmail.com)
