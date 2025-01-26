@@ -10,13 +10,19 @@
 
 ¡Hola! Soy un estudiante de **4Geeks Academy** en el programa de **Full Stack Web Development**. Apasionado por la tecnología y el desarrollo web, me estoy formando para crear aplicaciones completas con las últimas tecnologías del frontend y backend.  
 
+## 🤝 Colaboremos  
+¿Tienes una idea o proyecto? ¡Hablemos y trabajemos juntos! 🚀  
+
 ## 🌐 Proyectos en Vivo
 **[To-do-List](https://dann035.github.io/To-do-List/)**
 
 ## 🏆 Certificaciones  
 **[Start Coding Using JAVASCRIPT]("https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png")**
+<img src= "https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png" alt="Descripción de la imagen" width="400" />
 - Start Coding Using JAVASCRIPT - 4Geeks Academy.
-- "https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png"
+- 
+
+-
 
 ## 🌟 ¿Qué estoy aprendiendo?
 - **Frontend**: HTML, CSS, JavaScript, React.
