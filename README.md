@@ -1,7 +1,9 @@
 # !Hola, mi nombre es Daniel Landa 👋
 ### Desarrollador FULL-STACK WEB 🌍
 
-![https://github.com/Dann035](https://github.com/Dann035/Dann035/blob/main/img/FondodePerfil.jpg)
+## 🏆 Certificaciones
+<img src= "https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png" alt="Descripción de la imagen" width="400" />
+- Start Coding Using JAVASCRIPT - 4Geeks Academy.
 
 ![GitHub Followers](https://img.shields.io/github/followers/Dann035?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Dann035?style=social)
@@ -15,10 +17,6 @@
 
 ## 🌐 Proyectos en Vivo
 **[To-do-List](https://dann035.github.io/To-do-List/)**
-
-## 🏆 Certificaciones
-<img src= "https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png" alt="Descripción de la imagen" width="400" />
-- Start Coding Using JAVASCRIPT - 4Geeks Academy.
 
 ## 🌟 ¿Qué estoy aprendiendo?
 - **Frontend**: HTML, CSS, JavaScript, React.
