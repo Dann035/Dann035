@@ -23,8 +23,7 @@
 ## 🌟 ¿Qué estoy aprendiendo?
 - **Frontend**: HTML, CSS, JavaScript, React.
 - **Backend**: Python, Flask, Node.js, APIs.
-- **Bases de datos**: SQL, PostgreSQL.
-- **Herramientas**: Git, GitHub, Docker.
+- **Herramientas**: Git, GitHub.
 
 ## 🔍 Tecnologías que estoy explorando    
 - Next.js.
