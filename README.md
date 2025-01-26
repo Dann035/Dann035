@@ -10,16 +10,44 @@
 
 ¡Hola! Soy un estudiante de **4Geeks Academy** en el programa de **Full Stack Web Development**. Apasionado por la tecnología y el desarrollo web, me estoy formando para crear aplicaciones completas con las últimas tecnologías del frontend y backend.  
 
+## 🌐 Proyectos en Vivo
+**[To-do-List](https://dann035.github.io/To-do-List/)**
+
+## 🏆 Certificaciones  
+**[Start Coding Using JAVASCRIPT]("https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png")**
+- Start Coding Using JAVASCRIPT - 4Geeks Academy.
+- "https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png"
+
 ## 🌟 ¿Qué estoy aprendiendo?
 - **Frontend**: HTML, CSS, JavaScript, React.
 - **Backend**: Python, Flask, Node.js, APIs.
 - **Bases de datos**: SQL, PostgreSQL.
 - **Herramientas**: Git, GitHub, Docker.
 
+## 🔍 Tecnologías que estoy explorando    
+- Next.js.
+- Bootstrap
+- ExpressJS  
+
+<a href="https://ibb.co/2yHPCvq"><img src= alt="Captura-de-pantalla-2025-01-26-031138" border="0"></a>
+
+
+## 🛠️ Tecnologías que domino
+- Lenguajes: HTML, CSS.
+- Herramientas: Git, GitHub Actions.
+- 
 ## 🚀 Objetivo
 Transformar ideas en soluciones digitales funcionales y escalables, mientras sigo creciendo como desarrollador. Siempre buscando aprender, mejorar y colaborar en proyectos interesantes.
 
 ¡Vamos a construir algo increíble juntos! 🚀
+
+## 🎵 Intereses  
+- Amante de la música (me gusta Milo J, R&B con toques de trap,Electronica y Rock).  
+- Apasionado por aprender cosas nuevas todos los días.
+- Deportes
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dann035&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dann035&layout=compact&theme=radical)  
 
 ## Encuéntrame en:
 
