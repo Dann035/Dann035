@@ -3,8 +3,8 @@
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
 
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/Dann035?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/Dann035?style=social)
 
 Soy ingeniero de software profesional desde 2010.
 
