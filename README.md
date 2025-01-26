@@ -16,7 +16,7 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 ## Encuéntrame en:
 
 [![Link](portafolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel-landa-57337b349?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![LinkedIn](https://img.shields.io/badge/[LinkedIn-daniel-landa-57337b349?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010](https://www.linkedin.com/in/daniel-landa-57337b349))](https://www.linkedin.com/in/braismoure)
 [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
 # Únete al campus de programación de la comunidad
