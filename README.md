@@ -4,13 +4,13 @@
 ## 🏆 Certificaciones
 <img src= "https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png" alt="Descripción de la imagen" width="400" />
 - Start Coding Using JAVASCRIPT - 4Geeks Academy.
-- 
-# Resultados de Github
+
+## Resultados de Github
 
 ![GitHub Followers](https://img.shields.io/github/followers/Dann035?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Dann035?style=social)
 
-# 💻 Sobre mí
+## 💻 Sobre mí
 
 ¡Hola! Soy un estudiante de **4Geeks Academy** en el programa de **Full Stack Web Development**. Apasionado por la tecnología y el desarrollo web, me estoy formando para crear aplicaciones completas con las últimas tecnologías del frontend y backend.  
 
