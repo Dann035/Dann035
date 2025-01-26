@@ -30,9 +30,6 @@
 - Bootstrap
 - ExpressJS  
 
-<a href="https://ibb.co/2yHPCvq"><img src= alt="Captura-de-pantalla-2025-01-26-031138" border="0"></a>
-
-
 ## 🛠️ Tecnologías que domino
 - Lenguajes: HTML, CSS.
 - Herramientas: Git, GitHub Actions.
