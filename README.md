@@ -1,6 +1,8 @@
 # !Hola, mi nombre es Daniel Landa 👋
 ### Desarrollador FULL-STACK WEB 🌍
 
+![FondodelPerfil](https://github.com/Dann035/Dann035/blob/main/img/FondodePerfil.png)
+
 ## 🏆 Certificaciones
 <img src= "https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png" alt="Descripción de la imagen" width="400" />
 - Start Coding Using JAVASCRIPT - 4Geeks Academy.
