@@ -1,7 +1,7 @@
-# ![) Hola, mi nombre es Daniel Landa 👋
+# !Hola, mi nombre es Daniel Landa 👋
 ### Desarrollador FULL-STACK WEB 🌍
 
-![https://github.com/mouredev]("https://i.ibb.co/mTggcqg/istockphoto-1299990773-2048x2048.jpg")
+![https://github.com/Dann035]("https://i.ibb.co/mTggcqg/istockphoto-1299990773-2048x2048.jpg")
 
 ![GitHub Followers](https://img.shields.io/github/followers/Dann035?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Dann035?style=social)
