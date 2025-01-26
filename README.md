@@ -5,7 +5,7 @@
 <img src= "https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png" alt="Descripción de la imagen" width="400" />
 - Start Coding Using JAVASCRIPT - 4Geeks Academy.
 - 
-<br>
+# Resultados de Github
 
 ![GitHub Followers](https://img.shields.io/github/followers/Dann035?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Dann035?style=social)
