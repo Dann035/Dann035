@@ -45,7 +45,7 @@
 - Lenguajes: HTML, CSS , JS, PYTHON , FLASK, SQLalchemy, FASTAPI, GIT, JWT
 - Tecnologias: BOOTSTRAP, MATERIALIZE, FIGMA, SWIPER
 - Herramientas: GITHUB
-- 
+  
 ## 🚀 Objetivo
 Transformar ideas en soluciones digitales funcionales y escalables, mientras sigo creciendo como desarrollador. Siempre buscando aprender, mejorar y colaborar en proyectos interesantes.
 ¡Vamos a construir algo increíble juntos! 🚀
