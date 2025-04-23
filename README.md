@@ -33,32 +33,26 @@
 ## 🤝 Colaboremos  
 ¿Tienes una idea o proyecto? ¡Hablemos y trabajemos juntos! 🚀  
 
-## 🌐 Proyectos en Vivo
-**[To-do-List](https://dann035.github.io/To-do-List/)**
 
-**[Pokedex](https://dann035.github.io/Pokedex-1erProyect-Api/)**
-
-## 🌟 ¿Qué estoy aprendiendo?
-- **Frontend**: HTML, CSS, JavaScript, React.
-- **Backend**: Python, Flask, Node.js, APIs.
-- **Herramientas**: Git, GitHub.
 
 ## 🔍 Tecnologías que estoy explorando    
 - Next.js.
-- Bootstrap
-- ExpressJS  
+- Nodejs
+- ExpressJS
+- Socket.io
 
 ## 🛠️ Tecnologías que domino
-- Lenguajes: HTML, CSS.
-- Herramientas: Git, GitHub Actions.
+- Lenguajes: HTML, CSS , JS, PYTHON , FLASK, SQLalchemy, FASTAPI, GIT, JWT
+- Tecnologias: BOOTSTRAP, MATERIALIZE, FIGMA, SWIPER
+- Herramientas: GITHUB
 - 
 ## 🚀 Objetivo
 Transformar ideas en soluciones digitales funcionales y escalables, mientras sigo creciendo como desarrollador. Siempre buscando aprender, mejorar y colaborar en proyectos interesantes.
-
 ¡Vamos a construir algo increíble juntos! 🚀
 
-## 🎵 Intereses  
-- Amante de la música (me gusta Milo J, R&B con toques de trap,Electronica y Rock).  
-- Apasionado por aprender cosas nuevas todos los días.
-- Deportes
+## 🤔 Intereses 
+- Amante de la música ROCK ,ELECTRÓNICA y RAP
+- Apasionado de la tecnología,con ganas de aprender cosas nuevas todos los días.
+- Picar codigo 😏
+- Casi todos los Deportes
 
