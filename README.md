@@ -22,30 +22,39 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedln-blue)](https://www.linkedin.com/in/daniel-landa-57337b349/)
 
 # Proyectos en Vivo
+![Easy-Flights-IMG](https://i.ibb.co/6cb0QSL6/Captura-de-pantalla-2025-05-16-a-las-3-34-56.png)
 [Easy-Flights](https://team-djrj-easy-flights-backend.onrender.com)
+### Tecnologias usadas
+- React
+- JWT
+- Frame-Motion
+- Flask-Mail
+- Bootstrap
+- Flask
+- Sqlalchemy
+- NeonConsole
+- Render
 
 ## Contacto y apoyo:
 [![Email](https://img.shields.io/badge/landadlh603@gmail.com-email_personal_(respuesta_rápida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:landadlh603@gmail.com)
 
 
-
 ## 💻 Sobre mí
 
-¡Hola! Soy un estudiante de **4Geeks Academy** en el programa de **Full Stack Web Development**. Apasionado por la tecnología y el desarrollo web, me estoy formando para crear aplicaciones completas con las últimas tecnologías del frontend y backend.  
+¡Hola! Soy un Daniel un Desarrollador Junior, preparado en **4Geeks Academy** en el programa de **Full Stack Web Development**. Apasionado por la tecnología y el desarrollo web, con mi preparación estoy con ansias de crear proyectos nuevos y mejores con las últimas tecnologías de frontend y backend.  
 
 ## 🤝 Colaboremos  
 ¿Tienes una idea o proyecto? ¡Hablemos y trabajemos juntos! 🚀  
 
 ## 🔍 Tecnologías que estoy explorando    
 - Next.js.
-- Nodejs
 - ExpressJS
 - Socket.io
 
 ## 🛠️ Tecnologías que domino
-- Lenguajes: HTML, CSS , JS, PYTHON , FLASK, SQLalchemy, FASTAPI, GIT, JWT
-- Tecnologias: BOOTSTRAP, MATERIALIZE, FIGMA, SWIPER
-- Herramientas: GITHUB
+- Lenguajes: HTML, CSS , JS, REACT, PYTHON , FLASK, SQLalchemy, FASTAPI, GIT, JWT
+- Tecnologias: BOOTSTRAP, MATERIALIZE, SWIPER, GITHUB
+- Herramientas: FIGMA
   
 ## 🚀 Objetivo
 Transformar ideas en soluciones digitales funcionales y escalables, mientras sigo creciendo como desarrollador. Siempre buscando aprender, mejorar y colaborar en proyectos interesantes.
