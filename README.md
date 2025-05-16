@@ -7,7 +7,7 @@
 <img src= "https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png" alt="Descripción de la imagen" width="400" />
 - Start Coding Using JAVASCRIPT - 4Geeks Academy.
 
-# 📊 Estadísticas  
+## 📊 Estadísticas  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dann035&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dann035&layout=compact&theme=radical)  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Dann035&theme=onestar&no-frame=true) 
 
@@ -21,6 +21,9 @@
 [![Web](https://img.shields.io/badge/Web-gray)](https://github.com/Dann035)
 [![LinkedIn](https://img.shields.io/badge/Linkedln-blue)](https://www.linkedin.com/in/daniel-landa-57337b349/)
 
+# Proyectos en Vivo
+[Easy-Flights]([https://github.com/Dann035/Dann035/blob/main/img/FondodePerfil.png](https://team-djrj-easy-flights-backend.onrender.com/))
+
 ## Contacto y apoyo:
 [![Email](https://img.shields.io/badge/landadlh603@gmail.com-email_personal_(respuesta_rápida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:landadlh603@gmail.com)
 
@@ -32,8 +35,6 @@
 
 ## 🤝 Colaboremos  
 ¿Tienes una idea o proyecto? ¡Hablemos y trabajemos juntos! 🚀  
-
-
 
 ## 🔍 Tecnologías que estoy explorando    
 - Next.js.
