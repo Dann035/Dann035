@@ -1,68 +1,68 @@
-# !! Hola, mi nombre es Daniel Landa 👋
-### Desarrollador FULL-STACK WEB 🌍
+# 🌟 Daniel Landa - Full-Stack Web Developer
 
-![FondodelPerfil](https://github.com/Dann035/Dann035/blob/main/img/FondodePerfil.png)
+![Header Background](https://github.com/Dann035/Dann035/blob/main/img/FondodePerfil.png)
 
-## 🏆 Certificaciones
-<img src= "https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png" alt="Descripción de la imagen" width="400" />
-- Start Coding Using JAVASCRIPT - 4Geeks Academy.
+---
 
-## 📊 Estadísticas  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dann035&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dann035&layout=compact&theme=radical)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Dann035&theme=onestar&no-frame=true) 
+## 👨‍💻 Acerca de mí
+Soy **Daniel Landa**, Desarrollador Web **Full-Stack Junior** formado en **4Geeks Academy**. Apasionado por la tecnología y la innovación, me especializo en crear soluciones digitales escalables y de alto rendimiento.
 
-## Resultados de Github
+- 📍 Ubicación: Madrid, España
+- 🎓 Certificación: *Start Coding Using JavaScript* – 4Geeks Academy
+- 🎯 Objetivo profesional: Transformar ideas en productos funcionales y escalables.
 
-![GitHub Followers](https://img.shields.io/github/followers/Dann035?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/Dann035?style=social)
+---
 
-## Encuéntrame en:
+## 🛠️ Habilidades y Tecnologías
 
-[![Web](https://img.shields.io/badge/Web-gray)](https://github.com/Dann035)
-[![LinkedIn](https://img.shields.io/badge/Linkedln-blue)](https://www.linkedin.com/in/daniel-landa-57337b349/)
+**Lenguajes:** HTML · CSS · JavaScript · Python · SQL
 
-# Proyectos en Vivo
-![Easy-Flights-IMG](https://i.ibb.co/6cb0QSL6/Captura-de-pantalla-2025-05-16-a-las-3-34-56.png)
-[Easy-Flights](https://team-djrj-easy-flights-backend.onrender.com)
-### Tecnologias usadas
-- React
-- JWT
-- Frame-Motion
-- Flask-Mail
-- Bootstrap
-- Flask
-- Sqlalchemy
-- NeonConsole
-- Render
+**Frameworks & Librerías:** React · Next.js · Flask · FastAPI · Express.js · Bootstrap · Materialize
 
-## Contacto y apoyo:
-[![Email](https://img.shields.io/badge/landadlh603@gmail.com-email_personal_(respuesta_rápida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:landadlh603@gmail.com)
+**Herramientas & Servicios:** Git · GitHub · Figma · JWT · Socket.io · Render · Neon Console
 
+**En exploración:** TypeScript · Tailwind CSS · GraphQL · WebSockets
 
-## 💻 Sobre mí
+---
 
-¡Hola! Soy un Daniel un Desarrollador Junior, preparado en **4Geeks Academy** en el programa de **Full Stack Web Development**. Apasionado por la tecnología y el desarrollo web, con mi preparación estoy con ansias de crear proyectos nuevos y mejores con las últimas tecnologías de frontend y backend.  
+## 🏆 Certificaciones y Méritos
 
-## 🤝 Colaboremos  
-¿Tienes una idea o proyecto? ¡Hablemos y trabajemos juntos! 🚀  
+<img src="https://i.ibb.co/80t2frM/Captura-de-pantalla-2025-01-26-031138.png" alt="Certificación 4Geeks Academy" width="300" />
 
-## 🔍 Tecnologías que estoy explorando    
-- Next.js.
-- ExpressJS
-- Socket.io
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dann035&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dann035&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dann035&theme=onestar&no-frame=true)
 
-## 🛠️ Tecnologías que domino
-- Lenguajes: HTML, CSS , JS, REACT, PYTHON , FLASK, SQLalchemy, FASTAPI, GIT, JWT
-- Tecnologias: BOOTSTRAP, MATERIALIZE, SWIPER, GITHUB
-- Herramientas: FIGMA
-  
-## 🚀 Objetivo
-Transformar ideas en soluciones digitales funcionales y escalables, mientras sigo creciendo como desarrollador. Siempre buscando aprender, mejorar y colaborar en proyectos interesantes.
-¡Vamos a construir algo increíble juntos! 🚀
+---
 
-## 🤔 Intereses 
-- Amante de la música ROCK ,ELECTRÓNICA y RAP
-- Apasionado de la tecnología,con ganas de aprender cosas nuevas todos los días.
-- Picar codigo 😏
-- Casi todos los Deportes
+## 🔗 Conectemos
+
+[![Website](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://github.com/Dann035)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Landa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-landa-57337b349/)
+[![Email](https://img.shields.io/badge/Gmail-landadlh603@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:landadlh603@gmail.com)
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+### 📦 Easy Flights
+[![Easy-Flights Screenshot](https://i.ibb.co/6cb0QSL6/Captura-de-pantalla-2025-05-16-a-las-3-34-56.png)](https://team-djrj-easy-flights-backend.onrender.com)
+
+**Live Site:** [team-djrj-easy-flights](https://team-djrj-easy-flights-backend.onrender.com)
+
+**Tecnologías:**
+
+<code>React</code> · <code>Flask</code> · <code>SQLAlchemy</code> · <code>JWT</code> · <code>Frame Motion</code> · <code>Bootstrap</code> · <code>Flask-Mail</code> · <code>Neon Console</code> · <code>Render</code>
+
+</div>
+
+---
+
+## 🤝 ¡Hablemos!
+
+Si tienes un proyecto o idea, **¡conversemos y colaboremos!** ✨
+
+> "Transformando ideas en soluciones digitales."  
 
