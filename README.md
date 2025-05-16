@@ -56,7 +56,7 @@ Soy **Daniel Landa**, Desarrollador Web **Full-Stack Junior** formado en **4Geek
 
 <code>React</code> · <code>Flask</code> · <code>SQLAlchemy</code> · <code>JWT</code> · <code>Frame Motion</code> · <code>Bootstrap</code> · <code>Flask-Mail</code> · <code>Neon Console</code> · <code>Render</code>
 
-**Descripcion**
+**Descripcion: **
 Un proyecto increible en el que fui líder con el respaldo de un equipazo la verdad que juntos hicimos esto posible
 usando metodología de Scrum , mezclado con herramientas increibles como **Notion** y **Figma** planificamos lluvias de ideas 
 que hicimos realidad, súper agradecido con todos 🫡🙏
