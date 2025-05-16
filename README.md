@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedln-blue)](https://www.linkedin.com/in/daniel-landa-57337b349/)
 
 # Proyectos en Vivo
-[![Easy-Flights]([https://img.shields.io/badge/Linkedln-blue](https://github.com/Dann035/Dann035/blob/main/img/FondodePerfil.png](https://team-djrj-easy-flights-backend.onrender.com/)))]
+[Easy-Flights](https://www.ejemplo.com](https://img.shields.io/badge/Linkedln-blue](https://github.com/Dann035/Dann035/blob/main/img/FondodePerfil.png](https://team-djrj-easy-flights-backend.onrender.com/)
 
 ## Contacto y apoyo:
 [![Email](https://img.shields.io/badge/landadlh603@gmail.com-email_personal_(respuesta_rápida)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:landadlh603@gmail.com)
