@@ -29,8 +29,10 @@ Soy **Daniel Landa**, Desarrollador Web **Full-Stack Junior** formado en **4Geek
 
 ## 🏆 Certificaciones y Méritos
 
-<img src="https://github.com/Dann035/Dann035/blob/main/img/Certificado-StartUsing-Javascript.png" alt="Certificación 4Geeks Academy" width="300" />
-<img src="https://github.com/Dann035/Dann035/blob/main/img/img-full-stack-certificado.png" alt="Certificación 4Geeks Academy" width="300" />
+<div align="center">
+  <img src="https://github.com/Dann035/Dann035/blob/main/img/img-full-stack-certificado.png" alt="Certificación 4Geeks Academy" width="300" style="display: inline-block;" />
+  <img src="https://github.com/Dann035/Dann035/blob/main/img/Certificado-StartUsing-Javascript.png" alt="Certificación 4Geeks Academy" width="300" style="display: inline-block; margin-right: 10px;" />
+</div>
 
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=Dann035&show_icons=true&theme=radical" alt="GitHub Stats" width="350" />
