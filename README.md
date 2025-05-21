@@ -1,6 +1,6 @@
 # 🌟 Daniel Landa - Full-Stack Web Developer
 
-![Header Background](https://github.com/Dann035/Dann035/blob/main/img/FondodePerfil.png)
+![Header Background](https://github.com/Dann035/Dann035/blob/main/img/banner-de-mi-perfil.png)
 
 ---
 
