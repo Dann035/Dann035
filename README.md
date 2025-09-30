@@ -1,6 +1,6 @@
 # 🌟 Daniel Landa - Full-Stack Web Developer
 
-![Header Background](https://github.com/Dann035/Dann035/blob/main/img/github-banner.jpg)
+![Header Background](https://github.com/Dann035/Dann035/blob/main/img/github-banner-cartoon.png)
 
 
 ---
