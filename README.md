@@ -1,6 +1,7 @@
 # 🌟 Daniel Landa - Full-Stack Web Developer
 
-![Header Background](https://github.com/Dann035/Dann035/blob/main/img/banner-de-mi-perfil.png)
+![Header Background](https://github.com/Dann035/Dann035/blob/main/img/github-banner.webp)
+
 
 ---
 
@@ -17,7 +18,7 @@ Soy **Daniel Landa**, Desarrollador Web **Full-Stack Junior** formado en **4Geek
 
 ## 🛠️ Habilidades y Tecnologías
 
-**Lenguajes:** HTML · CSS · JavaScript · Python · SQL
+**Lenguajes:** HTML · CSS · JavaScript · Python · SQL · NodeJS
 
 **Frameworks & Librerías:** React · Flask · FastAPI · Express.js · Bootstrap · JWT
 
