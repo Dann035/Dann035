@@ -58,7 +58,7 @@ Soy **Daniel Landa**, Desarrollador Web **Full-Stack Junior** formado en **4Geek
 <div align="center">
 
 ### 📦 Easy Flights
-[![Easy-Flights Screenshot](https://i.ibb.co/6cb0QSL6/Captura-de-pantalla-2025-05-16-a-las-3-34-56.png)]
+[![Easy-Flights Screenshot](https://github.com/Dann035/Dann035/blob/main/img/Easy-Flights-IMG.png)]
 
 **Live Site:** [team-djrj-easy-flights](https://easy-flights.onrender.com)
 
