@@ -18,13 +18,12 @@ Soy **Daniel Landa**, Desarrollador Web **Full-Stack Junior** formado en **4Geek
 
 ## 🛠️ Habilidades y Tecnologías
 
-**Lenguajes:** HTML · CSS · JavaScript · Python · SQL · NodeJS
+**Lenguajes:** HTML · CSS · JavaScript · Python · SQL · NodeJS · TypeScript
 
-**Frameworks & Librerías:** React · Flask · FastAPI · Express.js · Bootstrap · JWT
+**Frameworks & Librerías:** React · Flask · FastAPI · Express.js · Bootstrap · JWT · Tailwind CSS · Astro
 
 **Herramientas & Servicios:** Git · GitHub · Figma · Render · Neon Console
 
-**En exploración:** TypeScript · Tailwind CSS · GraphQL · WebSockets · Socket.io · Next.js · Astro
 > Me encanta explorar nuevas tecnologías y herramientas, así que si tienes alguna que te gustaría compartir, no dudes en contactarme.
 ---
 
@@ -76,10 +75,6 @@ que hicimos realidad, súper agradecido con todos 🫡🙏
 </div>
 
 ---
-
-## 🤝 ¡Hablemos!
-
-Si tienes un proyecto o idea, **¡conversemos y colaboremos!** ✨
 
 > "Transformando ideas en soluciones digitales."  
 
