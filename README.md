@@ -8,7 +8,7 @@
 ## 👨‍💻 Acerca de mí
 Soy **Daniel Landa**, Desarrollador Web **Full-Stack** formado en **4Geeks Academy**. Apasionado por la tecnología y la innovación, me especializo en crear soluciones digitales escalables y de alto rendimiento.
 
-- 📍 Ubicación: Barcelona, España
+- 📍 Ubicación: Madrid, España
 - 🎓 Certificaciones:
   - *Start Coding Using JavaScript* – 4Geeks Academy
   - *Full Stack Web Development* – 4Geeks Academy
