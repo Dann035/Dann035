@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 Acerca de mí
-Soy **Daniel Landa**, Desarrollador Web **Full-Stack Junior** formado en **4Geeks Academy**. Apasionado por la tecnología y la innovación, me especializo en crear soluciones digitales escalables y de alto rendimiento.
+Soy **Daniel Landa**, Desarrollador Web **Full-Stack** formado en **4Geeks Academy**. Apasionado por la tecnología y la innovación, me especializo en crear soluciones digitales escalables y de alto rendimiento.
 
 - 📍 Ubicación: Barcelona, España
 - 🎓 Certificaciones:
@@ -20,9 +20,9 @@ Soy **Daniel Landa**, Desarrollador Web **Full-Stack Junior** formado en **4Geek
 
 **Lenguajes:** HTML · CSS · JavaScript · Python · SQL · NodeJS · TypeScript
 
-**Frameworks & Librerías:** React · Flask · FastAPI · Express.js · Bootstrap · JWT · Tailwind CSS · Astro
+**Frameworks & Librerías:** React · Flask · FastAPI · Express.js · Bootstrap · JWT · Tailwind CSS · Astro · Nextjs · Nestjs
 
-**Herramientas & Servicios:** Git · GitHub · Figma · Render · Neon Console
+**Herramientas & Servicios:** Git · GitHub · Figma · Render · Neon Console · Supabase
 
 > Me encanta explorar nuevas tecnologías y herramientas, así que si tienes alguna que te gustaría compartir, no dudes en contactarme.
 ---
